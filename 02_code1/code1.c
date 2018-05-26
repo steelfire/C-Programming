@@ -5,10 +5,11 @@ int max (int num1, int num2) {
   else {
    return num2;
      }
+}
   //check if num1 is greater than num2
     //if so, your answer is num1
     //otherwise, your answer is num2
-}
+
 
 int main(void) {
   printf("max(42, -69) is %d\n", max(42, -69));
