@@ -1,4 +1,4 @@
-Grading at Sun May 27 07:58:57 UTC 2018
+Grading at Sun May 27 07:59:52 UTC 2018
 Checking code2.c for legal syntax
 temp.c: In function ‘printTriangle’:
 temp.c:6:8: error: ‘i’ undeclared (first use in this function)
