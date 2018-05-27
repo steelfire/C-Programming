@@ -1,14 +1,5 @@
-Grading at Sun May 27 07:59:52 UTC 2018
+Grading at Sun May 27 08:02:35 UTC 2018
 Checking code2.c for legal syntax
-temp.c: In function ‘printTriangle’:
-temp.c:6:8: error: ‘i’ undeclared (first use in this function)
-   for (i = 0; i < size; i++) {
-        ^
-temp.c:6:8: note: each undeclared identifier is reported only once for each function it appears in
-temp.c:7:10: error: ‘j’ undeclared (first use in this function)
-     for (j = 0; j <= i; j++) {
-          ^
-temp.c: At top level:
 temp.c:35:1: error: expected identifier or ‘(’ before ‘}’ token
  }
  ^
