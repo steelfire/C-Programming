@@ -1,8 +1,8 @@
 
 int printTriangle(int size) {
   int starCount = 0;
-  for (i = 0; i < size; i++) {
-    for (j = 0; j <= i; j++) {
+  for (int i = 0; i < size; i++) {
+    for (int j = 0; j <= i; j++) {
     printf("*");
     starCount++;
   }
