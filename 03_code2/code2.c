@@ -30,7 +30,7 @@ int printTriangle(int size) {
 
   //your answer is starCount
 
-}
+
 
 
 int main(void) {
